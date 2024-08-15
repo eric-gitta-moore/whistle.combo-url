@@ -34,8 +34,8 @@ All configurations are optional
 #   - aplus/1.13.5/aplus_pc.js -> not modified
 #   - aplus/1.13.5/plugin/aplus_spmact.js -> https://d.alicdn.com/alilog/aplus/1.13.2/plugin/aplus_spmact.js
 
-/.+.(ali)cdn.com/i combo-url://{com} resCors://*
-```com
+/.+.(ali)cdn.com/i combo-url://{com-yaml} resCors://*
+```com-yaml
 mapping:
   /aplus/1.13.5/plugin/aplus_spmact.js/i: https://d.alicdn.com/alilog/aplus/1.13.2/plugin/aplus_spmact.js
 ```
