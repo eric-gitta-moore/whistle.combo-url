@@ -1,6 +1,6 @@
 {
   "name": "@eric-gitta-moore/whistle.combo-url",
-  "description": "combo for whistle",
+  "description": "A whistle plug-in for reassembling the combo request. Proxy several requests in combo according to the regular expression.",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -9,6 +9,11 @@
     "combo-url",
     "whistle"
   ],
+  "homepage": "https://github.com/eric-gitta-moore/whistle.combo-url",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eric-gitta-moore/whistle.combo-url.git"
+  },
   "dependencies": {
     "yaml": "^2.5.0"
   },
