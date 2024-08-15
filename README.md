@@ -19,11 +19,12 @@ $ npm i -g whistle
 **2. install whistle.combo**
 
 ```
-$ npm i -g whistle.combo-url
+$ npm i -g whistle.combo-url yaml
 ```
     
 
 **3. config combo protocal**
+
 All configurations are optional
 
 ~~~
@@ -51,6 +52,9 @@ mapping: {}
 resStatusCode: 200
 OverrideResHeaders: {}
 ```
+
+## Dependency
+- yaml
 
 ## License
 [MIT](./LICENSE)
