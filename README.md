@@ -19,7 +19,7 @@ $ npm i -g whistle
 **2. install whistle.combo**
 
 ```
-$ npm i -g whistle.combo-url yaml
+$ npm i -g @eric-gitta-moore/whistle.combo-url yaml
 ```
     
 
