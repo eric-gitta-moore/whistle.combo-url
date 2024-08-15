@@ -1,0 +1,26 @@
+{
+  "name": "whistle.combo-url",
+  "description": "combo for whistle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "combo",
+    "combo-url",
+    "whistle"
+  ],
+  "dependencies": {
+    "yaml": "^2.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.3.0",
+    "prettier": "^3.3.3"
+  },
+  "peerDependencies": {
+    "whistle": "^1.3.16"
+  },
+  "engines": {
+    "node": ">=v6.0.0"
+  },
+  "scripts": {}
+}
